@@ -8,7 +8,7 @@ Discovered and patched against **OpenClaw 2026.4.14** (commit `323493f`).
 
 Upstream tracker:
 - ergonomic half, stale: [openclaw/openclaw#33102](https://github.com/openclaw/openclaw/issues/33102)
-- new issue focused on the stuck-spinner failure mode: *link added after filing*
+- new issue focused on the stuck-spinner failure mode: [openclaw/openclaw#66991](https://github.com/openclaw/openclaw/issues/66991)
 
 > Credit: [arcabot.ai](https://arcabot.ai)
 
